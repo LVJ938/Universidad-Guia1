@@ -2,7 +2,7 @@ public enum Cargo {
 
 	DOCENTE,
 
-	ESTUDIATE,
+	ESTUDIANTE,
 
 	ADMINISTRATIVO;
 
